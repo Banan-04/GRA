@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\@\ANGOL\build-cpp\CMakeFiles\f83516f0c966cf780f38b4db43d151a4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5888C012-8021-3437-90F5-464B9D9E95FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

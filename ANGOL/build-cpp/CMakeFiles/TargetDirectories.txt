@@ -1,0 +1,3 @@
+C:/@/ANGOL/build-cpp/CMakeFiles/angol_cpp.dir
+C:/@/ANGOL/build-cpp/CMakeFiles/ALL_BUILD.dir
+C:/@/ANGOL/build-cpp/CMakeFiles/ZERO_CHECK.dir
